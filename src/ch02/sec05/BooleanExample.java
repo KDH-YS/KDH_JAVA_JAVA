@@ -10,8 +10,8 @@ public class BooleanExample {
 		boolean result2 = (x != 20);
 		System.out.println("result1: " + result1);
 		System.out.println("result2: " + result2);
-	
-		if(x == 20) {
+
+		if (x == 20) {
 			System.out.println("중지합니다.");
 		} else {
 			System.out.println("시작합니다.");
